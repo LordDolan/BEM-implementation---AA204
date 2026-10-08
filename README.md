@@ -29,7 +29,6 @@ pip install numpy scipy pandas matplotlib
 - Viterna & Corrigan (1982)
 - Chaviaropoulos & Hansen (2000)
 - Notas e slides de aula — AA-204
-- Notas e slides de aula — AA-204.
 
 ## Autor
 
